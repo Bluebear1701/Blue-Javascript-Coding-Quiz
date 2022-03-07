@@ -9,6 +9,7 @@ So that other will get chance to learn from it.
 
 ## Link
 Clicking the link below will take you directly to my password generator:
+https://bluebear1701.github.io/Blue-Javascript-Coding-Quiz/
 
 
 ## Screenshot added
