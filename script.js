@@ -8,7 +8,7 @@ var index = 0;
 
 function start() {
     countdown()
-    showquestion()
+    showQuestion()
 
 }
 //countdowntimer set interval
@@ -45,7 +45,7 @@ var answers = [
     "quotes",
 ]
 
-function showquestion() {
+function showQuestion() {
     var question = questions[index]
     document.querySelector("#question").textContent = question;
     document.querySelector(".choice1").textContent = choices[0]
@@ -53,10 +53,11 @@ function showquestion() {
     document.querySelector(".choice3").textContent = choices[2]
     document.querySelector(".choice4").textContent = choices[3]
 }
-function checkAnswer() {
-    let question
-}
-<button onclick= "choices()"></button>
+
+
+  
+
+//<button onclick= "choices()"></button>
 //if answers[0] =choice
 
 //question array variable make sure syntax is right
