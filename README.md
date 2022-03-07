@@ -12,3 +12,9 @@ Clicking the link below will take you directly to my password generator:
 
 
 ## Screenshot added
+![screenshot](assets\screenshot-coding.png)
+
+## Website Credits 
+https://www.w3schools.com/
+
+https://developer.mozilla.org/
