@@ -12,4 +12,3 @@ Clicking the link below will take you directly to my password generator:
 
 
 ## Screenshot added
-![screenshot]screenshot-coding.PNG
