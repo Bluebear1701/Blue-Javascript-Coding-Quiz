@@ -53,6 +53,5 @@ function showquestion(){
 // make sure questions and answers display after start button
 // make sure the for loop works 
 
-
 // click handler 
 document.querySelector(".start-btn").addEventListener("click", start);
